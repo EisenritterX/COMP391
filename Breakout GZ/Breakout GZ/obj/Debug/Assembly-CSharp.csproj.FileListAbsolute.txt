@@ -1,0 +1,2 @@
+G:\OneDrive\Documents\My School\Centennial\COMP319 Game Design\Breakout GZ\Breakout GZ\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+G:\OneDrive\Documents\My School\Centennial\COMP319 Game Design\Breakout GZ\Breakout GZ\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
